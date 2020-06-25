@@ -1,0 +1,17 @@
+{
+  "name": "minimal-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "author": "OpenArchitex <sudharakap@mun.ca>",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build"
+  },
+  "dependencies": {
+    "@openarchitex/gatsby-theme-minimal-portfolio": "*",
+    "gatsby": "^2.23.11",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}

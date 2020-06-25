@@ -1,14 +1,14 @@
 {
-  "name": "gatsby-starter-theme-workspace",
+  "name": "@openarchitex/gatsby-themes",
   "private": true,
   "version": "0.0.1",
-  "main": "index.js",
+  "author": "OpenArchitex <sudharakap@mun.ca>",
   "license": "MIT",
   "scripts": {
-    "build": "yarn workspace example build"
+    "build": "yarn workspace examples/minimal-portfolio build"
   },
   "workspaces": [
-    "gatsby-theme-minimal",
-    "example"
+    "themes/*",
+    "examples/*"
   ]
 }

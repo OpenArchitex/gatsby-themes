@@ -6,7 +6,7 @@
 mkdir my-site
 cd my-site
 yarn init
-# install gatsby-theme-minimal and it's dependencies
+# install gatsby-theme-minima   l and it's dependencies
 yarn add gatsby react react-dom gatsby-theme-minimal
 ```
 
