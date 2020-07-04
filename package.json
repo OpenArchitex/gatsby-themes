@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "author": "OpenArchitex <sudharakap@mun.ca>",
-  "license": "MIT",
+  "license": "AGPL-3.0-or-later",
   "scripts": {
     "build": "yarn workspace examples/minimal-portfolio build"
   },

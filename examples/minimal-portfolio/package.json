@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "author": "OpenArchitex <sudharakap@mun.ca>",
-  "license": "MIT",
+  "license": "AGPL-3.0-or-later",
   "scripts": {
     "develop": "gatsby develop",
     "build": "gatsby build"
