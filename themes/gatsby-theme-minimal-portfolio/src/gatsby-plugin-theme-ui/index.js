@@ -1,6 +1,7 @@
+import { tailwind } from '@theme-ui/presets'
 export default {
-    colors: {
-        text: 'white',
-        background: 'black',
+    ...tailwind,
+    styles: {
+        ...tailwind.styles,
     },
 }
