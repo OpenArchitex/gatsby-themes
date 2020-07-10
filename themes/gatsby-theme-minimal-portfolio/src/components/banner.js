@@ -1,8 +1,10 @@
+/** @jsx jsx */
 import React from "react"
-import { Container, Text, Image, Box, NavLink } from 'theme-ui'
+import { Container, jsx, Image, Box, NavLink } from 'theme-ui'
 import logo from '../images/logo.svg'
+import BannerMDX from "../sections/banner"
 
-const Banner = () => (
+const Banner = ({siteName}) => (
     <Container
         pt={100}
         pb={100}
@@ -17,15 +19,11 @@ const Banner = () => (
                 minWidth: '200px'
             }}
         />
-        <Text
-            sx={{
-                color: 'white',
-                fontSize: ['200%', '300%'],
-                fontWeight: 'heading'
-            }}
-        >
-            OpenArchitex
-        </Text>
+        <Box sx={{
+            color: "white"
+        }}>
+            <BannerMDX/>
+        </Box>
         <Box as='nav'
             sx={{
                 color: 'grey',
