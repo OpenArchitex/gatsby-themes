@@ -3,7 +3,26 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "OpenArchitex <sudharakap@mun.ca>",
+  "description": "Minimal portfolio with About, Projects and Contact sections",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-theme",
+    "gatsby-plugin",
+    "openarchitex"
+  ],
+  "bugs": {
+    "url": "https://github.com/OpenArchitex/gatsby-themes/issues"
+  },
+  "homepage": "https://openarchitex.dev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OpenArchitex/gatsby-themes",
+    "directory": "themes/gatsby-theme-minimal-portfolio"
+  },
   "scripts": {
     "build": "gatsby build",
     "clean": "gatsby clean",
