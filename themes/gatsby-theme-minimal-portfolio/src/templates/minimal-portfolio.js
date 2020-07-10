@@ -6,11 +6,13 @@ import Projects from "../components/projects"
 import Contact from "../components/contact"
 import Footer from "../components/footer";
 import { Divider } from "theme-ui";
+import SEO from "../components/seo";
 
 const MinimalPortfolio = () => (
     <>
         <Banner/>
         <Layout>
+            <SEO title="Home" />
             <About/>
             <Divider />
             <Projects/>

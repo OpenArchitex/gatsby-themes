@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "OpenArchitex <sudharakap@mun.ca>",
-  "license": "AGPL-3.0-or-later",
+  "license": "MIT",
   "scripts": {
     "build": "gatsby build",
     "clean": "gatsby clean",
@@ -16,6 +16,7 @@
   },
   "devDependencies": {
     "gatsby": "^2.23.11",
+    "prettier": "^2.0.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
@@ -25,6 +26,8 @@
     "@theme-ui/presets": "^0.3.0",
     "gatsby-plugin-mdx": "^1.2.22",
     "gatsby-plugin-theme-ui": "^0.3.0",
+    "prop-types": "^15.7.2",
+    "react-helmet": "^6.1.0",
     "theme-ui": "^0.3.1"
   }
 }
