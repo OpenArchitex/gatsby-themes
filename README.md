@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.openarchitex.dev">
-    <img alt="OpenArchitex" src="https://raw.githubusercontent.com/OpenArchitex/gatsby-themes/master/examples/minimal-portfolio/src/images/favicon.svg?token=AC64D7KEIIJ325SNWP5NXZS7BB3I2" width="60" />
+    <img alt="OpenArchitex" src="https://raw.githubusercontent.com/OpenArchitex/gatsby-themes/master/examples/minimal-portfolio/src/images/favicon.svg?token=AC64D7KEIIJ325SNWP5NXZS7BB3I2" width="80" />
   </a>
 </p>
 <h1 align="center">
