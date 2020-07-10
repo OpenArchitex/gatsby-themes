@@ -1,10 +1,9 @@
-/** @jsx jsx */
 import React from "react"
-import { Container, jsx, Image, Box, NavLink } from 'theme-ui'
+import { Container, Image, Box, NavLink } from 'theme-ui'
 import logo from '../images/logo.svg'
 import BannerMDX from "../sections/banner"
 
-const Banner = ({siteName}) => (
+const Banner = () => (
     <Container
         pt={100}
         pb={100}
