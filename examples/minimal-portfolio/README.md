@@ -1,6 +1,3 @@
-# Gatsby Theme Minimal Example
+# Minimal Portfolio
 
-A usage of
-[gatsby-theme-minimal](https://github.com/ChristopherBiscardi/gatsby-theme-minimal)
-that does nothing but use the theme. As a result you will see `Error: Missing resources for /` when navigating to `http://localhost:8000`. To get
-rid of that, create a page in `src/pages/index.js`.
+This is an example portfolio created with [@openarchitex/gatsby-theme-minimal-portfolio](https://github.com/OpenArchitex/gatsby-themes/tree/master/themes/gatsby-theme-minimal-portfolio).
