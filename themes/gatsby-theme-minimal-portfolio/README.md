@@ -1,53 +1,24 @@
-# The smallest possible Gatsby theme
+# Minimal Portfolio
+
+A simple portfolio with `About Us`, `Projects` and `Contact Us` sections created using
+[Theme UI](https://theme-ui.com) and [MDX](https://mdxjs.com/)
 
 ## Quick Start
 
-```shell
-mkdir my-site
-cd my-site
-yarn init
-# install gatsby-theme-minima   l and it's dependencies
-yarn add gatsby react react-dom gatsby-theme-minimal
-```
-
-Then add the theme to your `gatsby-config.js`. We'll use the long-form
-here for educational purposes.
-
-```javascript
-module.exports = {
-  plugins: [
-    {
-      resolve: "gatsby-theme-minimal",
-      options: {},
-    },
-  ],
-}
-```
-
-That's it, you can now run your gatsby site using
+You can run the theme using,
 
 ```shell
 yarn gatsby develop
 ```
 
-Note that this site doesn't _do_ anything, so you're seeing a missing
-resources error. Create a simple page in `src/pages/index.js` to see a
-page on the root url.
+The structure of the repo is as follows: 
 
-```jsx
-import React from "react"
+- `src/components`: This contains all components
 
-export default function Home() {
-  return <div>My Site!</div>
-}
-```
+- `src/templates`: This is the entry point to all the other components
 
-## Doing more with themes
+- `src/sections`: The mdx documents that is used by the theme
 
-You can use this as a place to start when developing themes. I
-generally suggest using [yarn
-workspaces](https://yarnpkg.com/lang/en/docs/workspaces/) like the
-[gatsby-theme-examples repo
-does](https://github.com/ChristopherBiscardi/gatsby-theme-examples),
-but using `yarn link` or `npm link` is a viable alternative if you're
-not familiar with workspaces.
+- `src/images`: All images used by the theme
+
+- `gatsby-plugin-theme-ui`: The styles related to [Theme UI](https://theme-ui.com/home)

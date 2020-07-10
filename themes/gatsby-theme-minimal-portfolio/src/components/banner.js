@@ -1,6 +1,6 @@
 import React from "react"
 import { Container, Image, Box, NavLink } from 'theme-ui'
-import logo from '../images/logo.svg'
+import banner from '../images/banner.svg'
 import BannerMDX from "../sections/banner"
 
 const Banner = () => (
@@ -12,7 +12,7 @@ const Banner = () => (
             textAlign: 'center'
         }}
     >
-        <Image src={logo}
+        <Image src={banner}
             sx={{
                 maxWidth: '20%',
                 minWidth: '200px'
