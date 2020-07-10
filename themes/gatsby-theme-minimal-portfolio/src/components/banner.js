@@ -1,6 +1,5 @@
 import React from "react"
 import { Container, Text, Image, Box, NavLink } from 'theme-ui'
-import {  } from 'theme-ui'
 import logo from '../images/logo.svg'
 
 const Banner = () => (
@@ -33,13 +32,13 @@ const Banner = () => (
                 fontSize: 'large'
             }}
         >
-            <NavLink href='/about' p={2}>
+            <NavLink href='#about' p={2}>
                 About
             </NavLink>
-            <NavLink href='/projects' p={2}>
+            <NavLink href='#projects' p={2}>
                 Projects
             </NavLink>
-            <NavLink href='/contact' p={2}>
+            <NavLink href='#contact' p={2}>
                 Contact
             </NavLink>
         </Box>
