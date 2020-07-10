@@ -8,7 +8,7 @@
 </h1>
 
 This repository contains all the Gatsby themes by OpenArchitex community. Please feel free
-to give them a try. If you have any suggestions for improvement do not hesitate to  open an issue or PR.
+to give them a try. If you have any suggestions for improvement do not hesitate to  open an [issue](https://github.com/OpenArchitex/gatsby-themes/issues/new/choose).
 
 ## Repo Details
 
