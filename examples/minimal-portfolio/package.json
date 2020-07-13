@@ -1,5 +1,6 @@
 {
   "name": "minimal-portfolio",
+  "starter-name": "gatsby-starter-minimal-portfolio",
   "private": true,
   "version": "1.0.0",
   "author": "OpenArchitex <sudharakap@mun.ca>",
