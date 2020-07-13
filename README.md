@@ -22,6 +22,3 @@ where `<theme-name>` should be replaced by the relevant theme. For example in th
 the Minimal Portfolio theme it will be,
 
 `yarn workspace @openarchitex/gatsby-theme-minimal-portfolio develop`
-
-We use [MDX](https://www.gatsbyjs.org/packages/gatsby-plugin-mdx/) along with
-[Theme UI](https://www.gatsbyjs.org/docs/theme-ui/). 
