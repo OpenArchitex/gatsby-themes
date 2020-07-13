@@ -1,8 +1,5 @@
 # Minimal Portfolio
 
-A simple portfolio with `About Us`, `Projects` and `Contact Us` sections created using
-[Theme UI](https://theme-ui.com) and [MDX](https://mdxjs.com/)
-
 ## Description
 
 A simple portfolio with `About Us`, `Projects` and `Contact Us` sections created using
