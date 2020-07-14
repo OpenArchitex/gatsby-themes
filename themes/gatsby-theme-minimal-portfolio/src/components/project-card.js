@@ -1,7 +1,7 @@
 import React from "react"
 import {Card, Text, Link, Image, Box, Heading} from "theme-ui"
 
-const ProjectCard = ({title, link, bg, textColor, thumbnail, children}) => (
+const ProjectCard = ({title, link, bg, textColor, thumbnailPath, children}) => (
     <Box
         sx={{
             "&:hover": {
@@ -25,7 +25,7 @@ const ProjectCard = ({title, link, bg, textColor, thumbnail, children}) => (
                 }}
             >
 
-                {thumbnail &&
+                {thumbnailPath &&
                     <Box sx={{
                         textAlign: 'center'
                     }}>
@@ -33,7 +33,7 @@ const ProjectCard = ({title, link, bg, textColor, thumbnail, children}) => (
                             sx={{
                                 maxWidth: "500px"
                             }}
-                            src={thumbnail}/>
+                            src={thumbnailPath}/>
                     </Box>
                 }
                 <Heading pb={3}>{title}</Heading>
