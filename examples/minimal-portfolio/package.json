@@ -10,7 +10,7 @@
     "build": "gatsby build"
   },
   "dependencies": {
-    "@openarchitex/gatsby-theme-minimal-portfolio": "*",
+    "@openarchitex/gatsby-theme-minimal-portfolio": "^1.0.2",
     "gatsby": "^2.23.11",
     "gatsby-plugin-manifest": "^2.4.18",
     "gatsby-plugin-offline": "^3.2.17",
