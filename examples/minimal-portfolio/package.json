@@ -2,7 +2,7 @@
   "name": "minimal-portfolio",
   "starter-name": "gatsby-starter-minimal-portfolio",
   "private": true,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "OpenArchitex <sudharakap@mun.ca>",
   "license": "MIT",
   "scripts": {
