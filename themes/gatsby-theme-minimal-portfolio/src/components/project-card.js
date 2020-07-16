@@ -31,9 +31,6 @@ const ProjectCard = ({title, link, bg, textColor, thumbnailPath, children}) => (
                         textAlign: 'center'
                     }}>
                         <Image
-                            sx={{
-                                maxWidth: "100%"
-                            }}
                             src={thumbnailPath}/>
                     </Box>
                 }
