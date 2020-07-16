@@ -16,7 +16,7 @@ This repository mimics the structure of [gatsby-starter-theme-workplace](https:/
 and use [yarn workspaces](https://classic.yarnpkg.com/en/docs/workspaces/) for development. To
 quickly start any theme in development mode you can use,
 
-`yarn workspace @openarchitex/gatsby-theme-<theme-name> develop`
+`yarn workspace @openarchitex/gatsby-theme-<theme-name> gatsby develop`
 
 where `<theme-name>` should be replaced by the relevant theme. For example in the case of 
 the Minimal Portfolio theme it will be,
