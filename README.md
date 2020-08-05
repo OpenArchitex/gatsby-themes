@@ -22,3 +22,9 @@ where `<theme-name>` should be replaced by the relevant theme. For example in th
 the Minimal Portfolio theme it will be,
 
 `yarn workspace @openarchitex/gatsby-theme-minimal-portfolio develop`
+
+---
+
+`We are grateful for JetBrains for generously providing Open Source licenses to help us with our development effort.`
+
+[![JetBrains Logo](https://raw.githubusercontent.com/OpenArchitex/CommonAssets/master/images/jetbrains-logo.svg)](https://www.jetbrains.com/?from=CherishCakes)
