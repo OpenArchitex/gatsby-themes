@@ -68,3 +68,9 @@ The structure of the repo is as follows:
 
 If you have any suggestions for improvement do not hesitate to  open an [issue](https://github.com/OpenArchitex/gatsby-themes/issues/new/choose) 
 or [pull request](https://github.com/OpenArchitex/gatsby-themes/pulls). 
+
+---
+
+`We are grateful for JetBrains for generously providing Open Source licenses to help us with our development effort.`
+
+[![JetBrains Logo](https://raw.githubusercontent.com/OpenArchitex/CommonAssets/master/images/jetbrains-logo.svg)](https://www.jetbrains.com/?from=CherishCakes)
