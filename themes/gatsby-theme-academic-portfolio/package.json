@@ -1,6 +1,6 @@
 {
   "name": "@openarchitex/gatsby-theme-academic-portfolio",
-  "version": "1.0.3",
+  "version": "1.0.0-alpha",
   "main": "index.js",
   "author": "OpenArchitex <sudharakap@mun.ca>",
   "description": "Portfolio theme tailored for profs, grad-students",

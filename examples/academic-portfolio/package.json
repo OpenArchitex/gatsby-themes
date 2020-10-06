@@ -2,7 +2,7 @@
   "name": "academic-portfolio",
   "starter-name": "gatsby-starter-academic-portfolio",
   "private": true,
-  "version": "1.0.2",
+  "version": "1.0.0",
   "author": "OpenArchitex <sudharakap@mun.ca>",
   "license": "MIT",
   "scripts": {
@@ -10,7 +10,7 @@
     "build": "gatsby build"
   },
   "dependencies": {
-    "@openarchitex/gatsby-theme-academic-portfolio": "^1.0.2",
+    "@openarchitex/gatsby-theme-academic-portfolio": "^1.0.0-alpha",
     "gatsby": "^2.23.11",
     "gatsby-plugin-manifest": "^2.4.18",
     "gatsby-plugin-offline": "^3.2.17",
