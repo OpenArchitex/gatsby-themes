@@ -1,11 +1,9 @@
 import React from "react"
-import ProjectCard from "../components/project-card"
+import CustomNavLink from "../components/custom-nav-link"
 
 const components = {
-    ProjectCard: ({title, link, bg, textColor, thumbnailPath, children}) => (
-        <ProjectCard title={title} link={link} bg={bg} textColor={textColor} thumbnailPath={thumbnailPath}>
-            {children}
-        </ProjectCard>
+    CustomNavLink: ({link, body, newTab}) => (
+        <CustomNavLink link={link} body={body} newTab={newTab}/>
     ),
 }
 

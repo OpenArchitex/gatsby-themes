@@ -2,7 +2,7 @@
 
 ## Description
 
-TODO
+A basic portfolio for grad students, professors and academics. 
 
 ### Learning Resources
 
@@ -20,7 +20,9 @@ npm i @openarchitex/gatsby-theme-academic-portfolio
 
 ## When do I use this theme?
 
-TODO
+This can be used if you are a graduate student or a professor/lecturer
+at a college or university. Includes some basic sections to highlight
+teaching and research achievements.
 
 ## Examples of usage
 
@@ -40,7 +42,7 @@ module.exports = {
 
 You can use [theme shadowing](https://www.gatsbyjs.org/docs/themes/shadowing/) to override the sections in the theme. 
 All the files relevant to the theme should go under `@opanarchitex/gatsby-theme-academic-portfolio`. 
-TODO: For example `banner.mdx` and `logo.svg` is overridden in the [example site](https://github.com/OpenArchitex/gatsby-themes/tree/master/examples/academic-portfolio). 
+For example `banner.mdx` and `profile-pic.jpg` is overridden in the [example site](https://github.com/OpenArchitex/gatsby-themes/tree/master/examples/academic-portfolio). 
 
 ## How to develop locally
 

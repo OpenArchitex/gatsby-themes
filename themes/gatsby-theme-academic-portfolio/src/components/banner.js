@@ -1,24 +1,25 @@
 import React from "react"
-import { Container, Image, Box, NavLink } from 'theme-ui'
-import banner from '../images/banner.svg'
+import {Container, Image, Box} from 'theme-ui'
+import profilePic from '../images/profile-pic.jpg'
 import jumbotron from '../images/jumbotron.jpg'
-import BannerMDX from "../sections/banner"
+import BannerMDX from '../sections/banner'
+import CustomNavLinks from '../sections/custom-nav-links'
 
 const Banner = () => (
     <Container
         pt={100}
-        pb={100}
         sx={{
             textAlign: 'center',
             backgroundImage: `url(${jumbotron})`,
             backgroundSize: '100%',
-            backgroundRepeat: 'no-repeat'
+            backgroundRepeat: 'no-repeat',
         }}
     >
-        <Image src={banner}
+        <Image src={profilePic}
             sx={{
                 maxWidth: '20%',
-                minWidth: '200px'
+                minWidth: '200px',
+                borderRadius: '50%'
             }}
         />
         <Box sx={{
@@ -32,15 +33,7 @@ const Banner = () => (
                 fontSize: 'large'
             }}
         >
-            <NavLink href='#about' p={2}>
-                About
-            </NavLink>
-            <NavLink href='#projects' p={2}>
-                Projects
-            </NavLink>
-            <NavLink href='#contact' p={2}>
-                Contact
-            </NavLink>
+            <CustomNavLinks />
         </Box>
     </Container>
 )
