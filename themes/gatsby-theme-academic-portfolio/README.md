@@ -42,7 +42,7 @@ module.exports = {
 
 You can use [theme shadowing](https://www.gatsbyjs.org/docs/themes/shadowing/) to override the sections in the theme. 
 All the files relevant to the theme should go under `@opanarchitex/gatsby-theme-academic-portfolio`. 
-For example `banner.mdx` and `profile-pic.jpg` is overridden in the [example site](https://github.com/OpenArchitex/gatsby-themes/tree/master/examples/academic-portfolio). 
+For example `banner.mdx` and `profile-pic.jpg` is overridden in the [example site](https://github.com/OpenArchitex/gatsby-themes/tree/main/examples/academic-portfolio). 
 
 ## How to develop locally
 
@@ -73,4 +73,4 @@ or [pull request](https://github.com/OpenArchitex/gatsby-themes/pulls).
 
 `We are grateful for JetBrains for generously providing Open Source licenses to help us with our development effort.`
 
-[![JetBrains Logo](https://raw.githubusercontent.com/OpenArchitex/CommonAssets/master/images/jetbrains-logo.svg)](https://www.jetbrains.com/?from=CherishCakes)
+[![JetBrains Logo](https://raw.githubusercontent.com/OpenArchitex/CommonAssets/main/images/jetbrains-logo.svg)](https://www.jetbrains.com/?from=CherishCakes)

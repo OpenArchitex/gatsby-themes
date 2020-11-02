@@ -1,6 +1,6 @@
 # Academic Portfolio
 
-This is an example portfolio created with [@openarchitex/gatsby-theme-academic-portfolio](https://github.com/OpenArchitex/gatsby-themes/tree/master/themes/gatsby-theme-academic-portfolio).
+This is an example portfolio created with [@openarchitex/gatsby-theme-academic-portfolio](https://github.com/OpenArchitex/gatsby-themes/tree/main/themes/gatsby-theme-academic-portfolio).
 
 You can use [theme shadowing](https://www.gatsbyjs.org/docs/themes/shadowing/) to override the sections in the theme. 
 All the files relevant to the theme should go under `@opanarchitex/gatsby-theme-academic-portfolio`. 

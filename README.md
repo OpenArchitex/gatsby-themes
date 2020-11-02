@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.openarchitex.dev">
-    <img alt="OpenArchitex" src="https://raw.githubusercontent.com/OpenArchitex/gatsby-themes/master/examples/minimal-portfolio/src/images/favicon.png" width="80" />
+    <img alt="OpenArchitex" src="https://raw.githubusercontent.com/OpenArchitex/gatsby-themes/main/examples/minimal-portfolio/src/images/favicon.png" width="80" />
   </a>
 </p>
 <h1 align="center">
@@ -27,4 +27,4 @@ the Minimal Portfolio theme it will be,
 
 `We are grateful for JetBrains for generously providing Open Source licenses to help us with our development effort.`
 
-[![JetBrains Logo](https://raw.githubusercontent.com/OpenArchitex/CommonAssets/master/images/jetbrains-logo.svg)](https://www.jetbrains.com/?from=gatsby-themes)
+[![JetBrains Logo](https://raw.githubusercontent.com/OpenArchitex/CommonAssets/main/images/jetbrains-logo.svg)](https://www.jetbrains.com/?from=gatsby-themes)

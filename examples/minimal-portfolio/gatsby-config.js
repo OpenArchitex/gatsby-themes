@@ -2,7 +2,7 @@ module.exports = {
     siteMetadata: {
         // You can overwrite the following values or add new values and query them
         // The following three values are used in the SEO component
-        // Refer: https://github.com/OpenArchitex/gatsby-themes/blob/master/themes/gatsby-theme-minimal-portfolio/gatsby-config.js
+        // Refer: https://github.com/OpenArchitex/gatsby-themes/blob/main/themes/gatsby-theme-minimal-portfolio/gatsby-config.js
         title: "Minimal Portfolio",
         description: "Minimal portfolio with About, Projects and Contact sections",
         author: "OpenArchitex"
