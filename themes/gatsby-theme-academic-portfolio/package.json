@@ -29,12 +29,12 @@
     "develop": "gatsby develop"
   },
   "peerDependencies": {
-    "gatsby": "^2.23.11",
+    "gatsby": "^4.25.7",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
-    "gatsby": "^2.23.11",
+    "gatsby": "^4.25.7",
     "prettier": "^2.0.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
